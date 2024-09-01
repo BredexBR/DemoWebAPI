@@ -1,0 +1,69 @@
+# Arquivos de configuração do Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios de build
+bin/
+obj/
+[Bb]uild[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+.bld/
+
+# Logs
+*.log
+[Ll]og/
+[Ll]ogs/
+
+# Arquivos gerados pelo NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos temporários
+[Tt]mp/
+[Tt]emp/
+*.tmp
+*.temp
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de publicação
+.publish/
+*.PublishProfiles
+
+# Arquivos do Rider e ReSharper
+*.DotSettings.user
+.idea/
+*.sln.iml
+_ReSharper.Caches/
+
+# Arquivos relacionados ao Entity Framework
+[Mm]igrations/
+
+# Arquivos relacionados ao Docker
+**/[Dd]ockerfile
+**/[Dd]ocker-compose*
+
+# Configurações locais de ambiente
+.env
+.env.*
+
+# Arquivos relacionados ao Azure Functions
+local.settings.json
+
+# Outros arquivos específicos do sistema
+*.DS_Store
+Thumbs.db
+Desktop.ini
