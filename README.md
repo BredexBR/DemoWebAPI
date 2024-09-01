@@ -33,7 +33,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 1. Clone o repositório para a sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/BredexBR/DemoWebAPI.git
     ```
 
 2. Navegue até o diretório do projeto:
